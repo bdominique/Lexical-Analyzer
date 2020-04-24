@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587661277 source:c:\users\domin\desktop\lexer\main.cpp
+	<iostream>
+	"lexer.cpp"
+	"parser.cpp"
+	<fstream>
+	<vector>
+
+1587674875 c:\users\domin\desktop\lexer\lexer.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<vector>
+
+1587744162 c:\users\domin\desktop\lexer\parser.cpp
+	<iostream>
+	<vector>
+
