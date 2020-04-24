@@ -1,5 +1,5 @@
 # Lexical-Analyzer
-_A Lexical Analyzer written in C++ for the sample Programming language Cell._
+_A Lexical Analyzer written in C++ for the programming language Cell._
 
 
 Cell is a minimalist programming language that was made with the intention of being easy to read and easy to understand. Not meant for commercial use, The goals of Cell are purely educational and to teahc others how a programming language's compiler works.
